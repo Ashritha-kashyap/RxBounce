@@ -1,0 +1,18 @@
+feature,importance,method
+closing_qty,1.170703706204551,mean |SHAP value|
+abc_code,0.7551484385241233,mean |SHAP value|
+days_of_cover,0.629340915764347,mean |SHAP value|
+log_unit_cost,0.575400792009532,mean |SHAP value|
+position_cover,0.3756281240319554,mean |SHAP value|
+demand_trend,0.19682591454337445,mean |SHAP value|
+demand_28d,0.11724314558315457,mean |SHAP value|
+demand_7d,0.10516967377221254,mean |SHAP value|
+month,0.10010945902813637,mean |SHAP value|
+days_since_receipt,0.08650280162314461,mean |SHAP value|
+lead_time_sd,0.0782304204110686,mean |SHAP value|
+emergency_28d,0.046338875776609785,mean |SHAP value|
+lead_time_mean,0.04139613874072312,mean |SHAP value|
+unmet_28d,0.030848757171054474,mean |SHAP value|
+holidays_next_7,0.019060502228424404,mean |SHAP value|
+on_order_qty,0.016887519501179685,mean |SHAP value|
+day_of_week,0.003003324319913932,mean |SHAP value|

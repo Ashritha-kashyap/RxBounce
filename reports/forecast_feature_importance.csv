@@ -1,0 +1,16 @@
+feature,importance
+log_unit_cost,2414
+week_of_year,1673
+roll_std_8,1161
+roll_mean_8,985
+lag_1,805
+roll_mean_4,685
+lead_time_mean,683
+lag_2,540
+lag_3,523
+lag_4,513
+abc_code,504
+subcat_code,495
+month,435
+nonzero_share_8,353
+holidays_in_week,231

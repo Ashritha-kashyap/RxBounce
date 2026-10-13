@@ -1,0 +1,22 @@
+[theme]
+base = "light"
+primaryColor = "#33658A"
+backgroundColor = "#F7F8FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1F2933"
+baseFontSize = 14
+baseRadius = "small"
+borderColor = "#E4E7EB"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#FFFFFF"
+
+[server]
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
